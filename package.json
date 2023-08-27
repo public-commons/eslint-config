@@ -1,0 +1,12 @@
+{
+  "name": "@public-commons/eslint-config",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.54.1",
+    "@typescript-eslint/parser": "^5.54.1"
+  },
+  "peerDependencies": {
+    "eslint": "7.x.x"
+  }
+}
